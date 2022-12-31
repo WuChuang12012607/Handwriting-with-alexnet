@@ -3,7 +3,8 @@
 1.运行"first_img.py"文件，input_path 为需要处理的文件的文件路径，处理后的图片将在同文件夹输出，weigths_path 是训练好的模型路径，现在直接使用即可
 
 2.使用单词识别功能，只需要使用"run.py",即可使用
-
+图片预处理训练文件夹和两个训练好的模型文件通过以下链接获取
+https://mega.nz/folder/uQMXQKjA#B8k_7gE7A7MBlaBRvWl8bg
 
 
 模型选择比较数据集：EMNIST
